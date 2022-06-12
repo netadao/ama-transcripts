@@ -62,7 +62,7 @@ Pupmos: signed wif addresh uzed on TDF https://daodao.zone/multisig/juno1lgnstas
 ||cozmoz iz abowt worccin:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;togever. apart. 4 a common goal.|Cosmos is about working together, apart, for a common goal.|"
 ||zo we dont neeb 2 cre8 new liccwiditea poolz wif the zame dokenz|We don't need to create new liquidity pools with the same tokens.|
 ||wen we can leverage the eggzizting liccwiditea in novel wayz|When we can leverage the existing liquidity in novel ways.|
-||pupmos added a pupnet img [<sup>1</sup>](#1) <a class="anchor" id="1r"></a>||
+||{{pupmos added a pupnet img}} [<sup>1</sup>](#1) <a class="anchor" id="1r"></a>||
 ||hehe|hehe|
 ||{pleez ignore APR hehe. it wil b goob. butt dis iz teztnet}|{Please ignore APR hehe. it will be good. but this is testnet}|
 ||fhink abowt how 1 could build new teccnologie 2 cre8 moar efficeint and effectiv poolz uzin the eggzisting wasmswap teccnologie|Think about how one could build new technology to create more efficient and effective pools using the existing WASM technology.|
